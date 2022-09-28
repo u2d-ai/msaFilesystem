@@ -28,7 +28,7 @@ setup_info = dict(
     long_description_content_type='text/markdown',
     license='MIT',
     classifiers=[
-        'Development Status :: 5 - Alpha',
+        'Development Status :: 3 - Alpha',
         'Framework :: FastAPI',
         'Intended Audience :: Developers',
         'License :: OSI Approved :: MIT License',
