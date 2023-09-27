@@ -1,5 +1,10 @@
 # msaFilesystem Release Notes
 ## Possible future features:
+
+## 0.0.4
+
+migrate to poetry
+
 ## 0.0.3
 
 pinned package versions
