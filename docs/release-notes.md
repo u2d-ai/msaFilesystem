@@ -1,6 +1,10 @@
 # msaFilesystem Release Notes
 ## Possible future features:
 
+## 0.0.5
+
+update dependencies version
+
 ## 0.0.4
 
 migrate to poetry
