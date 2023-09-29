@@ -1,6 +1,10 @@
 # msaFilesystem Release Notes
 ## Possible future features:
 
+## 0.0.6
+
+added autodeploy to pypi
+
 ## 0.0.5
 
 update dependencies version
@@ -13,7 +17,7 @@ migrate to poetry
 
 pinned package versions
 
-## 0.0.2 
+## 0.0.2
 
 initial version 0.0.2 (Alpha)
 
