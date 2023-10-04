@@ -1,13 +1,13 @@
 [tool.poetry]
 name = "msaFilesystem"
-version = "0.0.6"
+version = "0.0.7"
 description = "Agnostic Abstract Filesystem API which allows to use S3, GCS, Azure Datalake, your local FS, Youtube etc Optimized for use with FastAPI/Pydantic."
 authors = ["Stefan Welcker"]
 readme = "README.md"
 packages = [{include = "msaFilesystem"}]
 
 [tool.poetry.dependencies]
-python = "^3.10"
+python = "~3.9"
 fs = "2.4.16"
 six = "1.16.0"
 pysmb = "1.2.8"
