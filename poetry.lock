@@ -584,6 +584,7 @@ files = [
 fs = ">=2.4.13,<3"
 requests = ">=2.20"
 requests-oauthlib = ">=1.2.0"
+urllib3 = {version = ">=1.26", markers = "python_version >= \"3.10\" and python_version < \"4\""}
 
 [[package]]
 name = "fs-s3fs"
@@ -2751,5 +2752,5 @@ testing = ["big-O", "jaraco.functools", "jaraco.itertools", "more-itertools", "p
 
 [metadata]
 lock-version = "2.0"
-python-versions = "~3.9"
-content-hash = "ed767f55ac6f295b057a994c2db529a3c526ee04f45b1d7bfb1b5fcb13d315aa"
+python-versions = ">=3.9.0,<3.11"
+content-hash = "22c792b50f80a9ef45549e335e63641ce0069f6e839ad256b350682cc2d6ff64"
