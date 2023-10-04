@@ -1,6 +1,10 @@
 # msaFilesystem Release Notes
 ## Possible future features:
 
+## 0.0.7
+
+fix dependencies
+
 ## 0.0.6
 
 added autodeploy to pypi
